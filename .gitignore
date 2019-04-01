@@ -1,0 +1,9 @@
+## Ignore Visual Studio Code files
+
+allure-results
+node_modules
+logs
+package-lock.json
+
+
+
